@@ -1,0 +1,17 @@
+@import url("style/header.css");
+
+:root{
+    --verdesage:darkgreen;
+    --verde-fundo:lightgreen;
+    --verdao:darkgreen;
+
+    --font-projeto: "inherit";
+
+
+}
+
+body{
+    background-color: var(--verdesage);
+    margin: 0;
+    font-family: var(--font-projeto);
+}
